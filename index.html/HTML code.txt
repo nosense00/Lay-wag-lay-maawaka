@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lay Wag Lay Maawaka</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      text-align: center;
+      padding: 50px;
+    }
+    img.logo {
+      width: 180px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 2.2rem;
+    }
+    p {
+      max-width: 600px;
+      margin: 20px auto;
+      font-size: 1.1rem;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/sFm2grF.png" alt="Lalay Logo" class="logo" />
+  <h1>Lay Wag Lay Maawaka</h1>
+  <p>Meet Lalay — the pixelated crocodile with ultimate chill. 🐊<br>
+  A symbol of confidence, stealth, and swag. He doesn’t chase trends; he floats with finesse. 🛶</p>
+</body>
+</html>
